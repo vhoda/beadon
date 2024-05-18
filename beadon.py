@@ -24,7 +24,7 @@ def play_video(video_path):
         width, height = clip.size
 
         root = Tk()
-        root.title("Reproductor de Video")
+        root.title("beadon")
         root.geometry(f"{width}x{height}")
 
 
